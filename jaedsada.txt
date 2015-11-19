@@ -1,0 +1,3 @@
+jaedsada chaisorn
+select number = 333
+output 3x3x37 
